@@ -1,0 +1,27 @@
+MAVEN GOALS
+
+clean: 
+Tar bort tidigare byggrester, inklusive klassfiler och andra utdatafiler,
+för att säkerställa att projektet börjar från en ren miljö.
+Detta förhindrar konflikter med gamla filer.
+
+compile:
+Kompilerar projektets källkod till bytecode,vilket genererar .class-filer som används för exekvering.
+Säkerställer att koden kompileras utan fel innan testerna körs.
+
+javadoc:
+Skapar en "site-mapp", genererar automatiskt dokumentation för projektets kod baserat på kommentarerna i källkoden.
+(I detta fall gjorde jag något fel jämfört med tidigare gånger då jag fick en väldans massa warningsmeddelanden i 
+min terminal).
+
+test:
+"Testning och Rapportering"
+Kör automatiserade enhetstester för att bekräfta att projektets funktioner fungerar som förväntat.
+Genererar rapporter som sammanfattar resultatet av testerna.
+
+
+package:
+Paketerar projektet till ett distribuerbart artefakt, exempelvis en JAR- eller WAR-fil, vilket gör det redo för
+användning.
+
+

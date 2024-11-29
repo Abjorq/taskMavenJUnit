@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/anton/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/anton/library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+C:\Users\anton\library\src\main\java = 1732887258032
+C:\Users\anton\library\target\site\apidocs\allclasses-index.html = 1732902211855
+C:\Users\anton\library\target\site\apidocs\allpackages-index.html = 1732902211858
+C:\Users\anton\library\target\site\apidocs\copy.svg = 1732902211907
+C:\Users\anton\library\target\site\apidocs\element-list = 1732902211692
+C:\Users\anton\library\target\site\apidocs\help-doc.html = 1732902211900
+C:\Users\anton\library\target\site\apidocs\index-all.html = 1732902211887
+C:\Users\anton\library\target\site\apidocs\index.html = 1732902211832
+C:\Users\anton\library\target\site\apidocs\link.svg = 1732902211910
+C:\Users\anton\library\target\site\apidocs\member-search-index.js = 1732902211865
+C:\Users\anton\library\target\site\apidocs\module-search-index.js = 1732902211860
+C:\Users\anton\library\target\site\apidocs\overview-summary.html = 1732902211893
+C:\Users\anton\library\target\site\apidocs\overview-tree.html = 1732902211825
+C:\Users\anton\library\target\site\apidocs\package-search-index.js = 1732902211862
+C:\Users\anton\library\target\site\apidocs\script.js = 1732902211905
+C:\Users\anton\library\target\site\apidocs\search-page.js = 1732902211920
+C:\Users\anton\library\target\site\apidocs\search.html = 1732902211891
+C:\Users\anton\library\target\site\apidocs\search.js = 1732902211915
+C:\Users\anton\library\target\site\apidocs\serialized-form.html = 1732902211738
+C:\Users\anton\library\target\site\apidocs\stylesheet.css = 1732902211903
+C:\Users\anton\library\target\site\apidocs\tag-search-index.js = 1732902211866
+C:\Users\anton\library\target\site\apidocs\type-search-index.js = 1732902211863
